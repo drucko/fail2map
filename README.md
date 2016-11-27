@@ -52,7 +52,6 @@ Notes
 
 
 ----
-2015, Manuel Vonthron <manuel.vonthron@acadis.org>
-
+2015, Manuel Vonthron <manuel.vonthron@acadis.org>     
 2016, Klaus Tachtler <klaus@tachtler.net>
 
