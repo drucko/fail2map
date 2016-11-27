@@ -6,7 +6,6 @@ Fail2map
 - Include all JavaScript files from http://leafletjs.com/ and https://jquery.com/ to the file system structure of fail2map
 - Change from http://www.telize.com (the public API will permanently shut down) to http://ip-api.com
 - Fix some problems with UTF-8 inside the fail2map.py python script
-
 - **Shell/Bash script for MERGE various ''places.geojson'' files to one**
 
 Fail2map is a map generator for [fail2ban](http://www.fail2ban.org).
