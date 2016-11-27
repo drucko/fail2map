@@ -19,7 +19,7 @@ Installing fail2map and fail2ban action
 ---------------------------------------
 
 ##### See following Link for an installation description (sorry, only available in german language):
-- http://www.dokuwiki.tachtler.net/doku.php?id=tachtler:fail2map
+- [DokuWiki - Klaus Tachtler - fail2map](http://www.dokuwiki.tachtler.net/doku.php?id=tachtler:fail2map)
 
 ##### or follow the standard installation instructions here:
 
