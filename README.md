@@ -1,12 +1,16 @@
 Fail2map
 ========
 
-### Changes on this fork:
+Changes on this fork
+--------------------
 
 - Include all JavaScript files from http://leafletjs.com/ and https://jquery.com/ to the file system structure of fail2map
 - Change from http://www.telize.com (the public API will permanently shut down) to http://ip-api.com
 - Fix some problems with UTF-8 inside the fail2map.py python script
 - **Shell/Bash script for MERGE various ''places.geojson'' files to one** - (`fail2map-merge.sh`)
+
+Description
+-----------
 
 Fail2map is a map generator for [fail2ban](http://www.fail2ban.org).
 It displays banned IP on a world map. Adding IP is done automagically through a fail2ban *action*.
