@@ -7,7 +7,7 @@ import sys
 import urllib2
 import random
 
-JSON_FILE = "/var/log/fail2map70090.places.geojson"
+JSON_FILE = "/var/log/places.geojson"
 # Tachtler
 # default: GEOIP_API = "http://www.telize.com/geoip/%s"
 GEOIP_API = "http://ip-api.com/json/%s"
