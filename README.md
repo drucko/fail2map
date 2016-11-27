@@ -18,9 +18,10 @@ Fail2map is based on [backpack](https://github.com/maximeh/backpack) by Maxime H
 Installing fail2map and fail2ban action
 ---------------------------------------
 
-See following Link for a installation description (sorry, only available in german language):
+##### See following Link for a installation description (sorry, only available in german language):
 - http://www.dokuwiki.tachtler.net/doku.php?id=tachtler:fail2map
-or follow the standard installation instructions here:
+
+##### or follow the standard installation instructions here:
 
 1. Place fail2map in the desired path of your web server
 
